@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    overflow-x: hidden;
+    background-color: rgb(255, 255, 255);
+}
+
+.webgl {
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+  
+}
+
+.cotainer {
+    position: absolute;
+    bottom: 2px;
+    left: 2px;
+    display: grid;
+    color: white;
+    place-items: center;
+}
