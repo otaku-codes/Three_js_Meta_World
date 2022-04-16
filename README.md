@@ -1,6 +1,6 @@
-# Three_and_Cannon_js
+# Three_js_Meta_World
 
-Testing three.js visuals + Cannon.js physics 
+Testing character controls in three js with raycaster and cannon js
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -20,4 +20,9 @@ npm run build
 
 Use W, A, S, D for normal movements
 Use Shift key roll movement
+
+## Future Commit Goals
+
+Improve lights
+More rich world
 
