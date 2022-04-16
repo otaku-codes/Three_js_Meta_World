@@ -25,5 +25,5 @@ Use Shift key roll movement
 
 Improve lights,
 More rich world,
-joystick control for android
+joystick control for smartphones
 
