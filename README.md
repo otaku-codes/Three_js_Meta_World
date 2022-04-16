@@ -23,6 +23,7 @@ Use Shift key roll movement
 
 ## Future Commit Goals
 
-Improve lights /n
-More rich world
+Improve lights,
+More rich world,
+joystick control for android
 
