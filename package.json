@@ -3,7 +3,7 @@
     "build": "webpack --config ./bundler/webpack.prod.js",
     "dev": "webpack serve --config ./bundler/webpack.dev.js",
     "deploy": "vercel --prod",
-    "start": "node server.js"
+    "start": "npm start" 
   },
   "dependencies": {
     "@babel/core": "^7.17.8",
